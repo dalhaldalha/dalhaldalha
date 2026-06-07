@@ -119,7 +119,7 @@ url:   dalhaldalha
 
 <br/>
 
-![Dalha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalhaldalha&show_icons=true&hide_border=true&count_private=true&title_color=7F77DD&icon_color=1D9E75&bg_color=00000000&text_color=888780)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalhaldalha&show_icons=true&hide_border=true&count_private=true&title_color=7F77DD&icon_color=1D9E75&bg_color=00000000&text_color=888780)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalhaldalha&layout=compact&hide_border=true&title_color=7F77DD&bg_color=00000000&text_color=888780)
 
@@ -137,13 +137,13 @@ url:   dalhaldalha
 
 <br/>
 
-[![Email](https://img.shields.io/badge/email-your%40email.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/email-your%40email.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111)](mailto:dalhalawand@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-Dalha-378ADD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Dalha-378ADD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111)](https://linkedin.com/in/dalha)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/twitter-@dalhaldalha-1D9E75?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111)](https://twitter.com/dalhaldalha)
+[![Twitter](https://img.shields.io/badge/twitter-@dalhaldalha-1D9E75?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111)](https://x.com/dalha28)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-D85A30?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-D85A30?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111)](https://dalhalawan.site/)
 
 <br/>
 
