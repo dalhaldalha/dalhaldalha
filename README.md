@@ -137,11 +137,11 @@ url:   dalhaldalha
 
 <br/>
 
-[![Email](https://img.shields.io/badge/email-your%40email.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111)](mailto:dalhalawand@gmail.com)
+[![Email](https://img.shields.io/badge/email-dalhalawand%40email.com-7F77DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111)](mailto:dalhalawand@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-Dalha-378ADD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111)](https://linkedin.com/in/dalha)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/twitter-@dalhaldalha-1D9E75?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111)](https://x.com/dalha28)
+[![Twitter](https://img.shields.io/badge/twitter-@dalha28-1D9E75?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111)](https://x.com/dalha28)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-D85A30?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111)](https://dalhalawan.site/)
 
