@@ -1,9 +1,5 @@
 <div align="center">
-
-```
-~/github.com/dalhaldalha — zsh
-```
-
+Hi, i'm
 <h1>DALHA</h1>
 
 **`full-stack developer / building things for the web`**
